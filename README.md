@@ -14,7 +14,7 @@ Repository consists of testdat so that you can play around..
 
 I will try to add as much information as i can..
 
-    Try to check out the python section for before working on pandas..
+    Try to check out the python section before working on pandas..
     
 Any doubts or any explanation needed you can reach out to me on.
 twitter.com/shyamshyre
