@@ -12,9 +12,9 @@ Section Covers Following Things
 7) Grouping of Data using aggregate function's.
 8) Cleaning the data (Removing null values)
 9) Operations on Datetime
-10)Operations  String Functions
-11)IO-Operations (csv,xls,html)
-12)Playing around Pivot Table 
+10) Operations  String Functions
+11) IO-Operations (csv,xls,html)
+12) Playing around Pivot Table 
 
 Repository consists of testdat so that you can play around..
 
